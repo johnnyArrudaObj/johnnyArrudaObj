@@ -96,7 +96,16 @@ class About extends Me
 <h3 align="left">Github Stats:</h3>
 <p align="left">
   <a href="https://github.com/johnnyArrudaObj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyArrudaObj&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyArrudaObj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyArrudaObj&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnnyArrudaObj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
-  
+
+<h3 align="left">Always keep in mind..</h3>
+
+![yoda-much-to-learn](https://user-images.githubusercontent.com/105293990/169935021-e11c6ef7-b7ed-4019-b3ca-a51061df32cd.gif)
+
+<h3 align="left">Every day like..</h3>
+
+![programmer-programming](https://user-images.githubusercontent.com/105293990/169935585-60c45407-0ee4-44f2-ba0f-0220d00f06da.gif)
+
+ 
