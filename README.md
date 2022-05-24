@@ -104,7 +104,7 @@ class About extends Me
 
 ![yoda-much-to-learn](https://user-images.githubusercontent.com/105293990/169935021-e11c6ef7-b7ed-4019-b3ca-a51061df32cd.gif)
 
-<h3 align="left">Every day like..</h3>
+<h3 align="left">Everyday like..</h3>
 
 ![programmer-programming](https://user-images.githubusercontent.com/105293990/169935585-60c45407-0ee4-44f2-ba0f-0220d00f06da.gif)
 
