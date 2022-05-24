@@ -1,15 +1,43 @@
-<h1 align="left">👋 Hello! Welcome to my Github profile.</h1>
-<h3 align="left">My name is Johnny and my nickname is "Jow"!</h3>
+<h1 align="left">👋 Hello! My name is Johnny and my nickname is "Jow"! :elephant:</h1>
+<h3 align="left">Welcome to my Github profile.</h3>
 
-- 🌱 I’m currently learning **Node**
-
-- 💬 Ask me about **PHP, MySql, JavaScript, Html, Css**
+- I'm 26 years old from Brazil(São Paulo).:earth_americas:
 
 - 📫 How to reach me **johnny.arruda@objective.com.br**
 
-- ⚡ Fun fact **I'm Cs Go Player**
+- ⚡ Fun fact **I love playing Cs Go** :video_game::gun::bomb:
 
-<h3 align="left">Tools:</h3>
+```php
+<?php
+namespace Johnny;
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Objective',
+                'position' => 'Developer'         
+            ]
+        ];
+    }
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Laravel::class,
+            DesignPatterns::class,
+            CleanCode::class
+        ];
+    }
+    public function getFutureGoal(): string
+    {
+        return 'An unknown ..';
+    }
+}
+```
+
+<h3 align="left">Tools and technologies:</h3>
 <p align="left">
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -71,3 +99,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyArrudaObj&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyArrudaObj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
+  
