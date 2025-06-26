@@ -40,6 +40,8 @@ class About extends Me
 }
 ```
 
+---
+
 ### 🚀 Tools & Technologies
 
 <p align="center">
