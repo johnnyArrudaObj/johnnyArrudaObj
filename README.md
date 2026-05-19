@@ -12,7 +12,9 @@
 ```php
 <?php
 declare(strict_types=1);
+
 namespace Johnny;
+
 class About extends Me
 {
     public function getCurrentWorkplace(): array
@@ -50,16 +52,6 @@ class About extends Me
   </a>
   <a href="https://instagram.com/johnny_silva" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/johnnyArrudaObj">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyArrudaObj&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
