@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile</h3>
 
 <p align="center">
-  🇧🇷 30 years old from São Paulo, Brazil<br>
+  🇧🇷 31 years old from São Paulo, Brazil<br>
   📫 Reach me at: <strong>johnny.arruda@objective.com.br</strong><br>
   ⚽ Fun fact: I ❤️ <strong>SPFC</strong> 🇾🇪
 </p>
